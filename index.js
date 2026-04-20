@@ -10,3 +10,8 @@ switch (num){
   case 5:
   alert ('Только не это')
 }
+function(num){
+  if(num === 0){
+    alert(`hello`)
+  }return
+}
